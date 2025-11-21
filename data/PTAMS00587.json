@@ -1,0 +1,4189 @@
+{
+    "manuscript": "PTAMS00587",
+    "source": {
+        "link": "https:\/\/api.onb.ac.at\/iiif\/presentation\/v3\/manifest\/1001FD42",
+        "downloaded_at": "2025-11-21 14:31:11"
+    },
+    "attribution": null,
+    "label": [
+        "Catena in Psalmos"
+    ],
+    "description": null,
+    "metaData": [
+        {
+            "label": {
+                "de": [
+                    "Titel"
+                ],
+                "en": [
+                    "Title"
+                ]
+            },
+            "value": {
+                "en": "Catena in Psalmos"
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "Person"
+                ],
+                "en": [
+                    "Person"
+                ]
+            },
+            "value": {
+                "en": "Diodorus, Tarsensis, -394 [VerfasserIn] -- (GND: 118943197); Origenes, 185-254 [VerfasserIn] -- (GND: 118590235); Eusebius, Caesariensis, 260-339 [VerfasserIn] -- (GND: 118531425); Busbecq, Ogier Ghislain &lt;&lt;de&gt;&gt;, 1522-1592 [Vorbesitzer] -- (GND: 119025280)"
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "Erscheinungsort"
+                ],
+                "en": [
+                    "Place"
+                ]
+            },
+            "value": {
+                "de": "Ohne Ort"
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "Jahr\/Datierung"
+                ],
+                "en": [
+                    "Year\/Date"
+                ]
+            },
+            "value": {
+                "en": "1000"
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "Medientyp"
+                ],
+                "en": [
+                    "Mediatype"
+                ]
+            },
+            "value": {
+                "de": "Manuskript",
+                "en": "Manuscript"
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "Format\/Maße"
+                ],
+                "en": [
+                    "Format\/Size"
+                ]
+            },
+            "value": {
+                "de": "340\/350 x 275\/280 mm"
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "Weitere Informationen"
+                ],
+                "en": [
+                    "Further Information"
+                ]
+            },
+            "value": {
+                "de": "Volldigitalisat; Hunger, H., Kresten, O.: Katalog der griechischen Handschriften der &Ouml;sterreichischen Nationalbibliothek, Teil 3\/1: Codices Theologici 1 - 100 (Museion, NF IV 1, 3\/1), Wien 1976; Augerius von Busbeck (1522-1592) erwirbt die Handschrift in Konstantinopel (Vermerk auf Bl. IIIr); Hofbibliothekseinband mit Supralibros des Gerard van Swieten, datiert 1754"
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "Umfang"
+                ],
+                "en": [
+                    "Range"
+                ]
+            },
+            "value": {
+                "de": "Handschrift; III+278 Bll."
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "Illustrationen"
+                ],
+                "en": [
+                    "Illustrations"
+                ]
+            },
+            "value": {
+                "de": "Initialen in brauner Federzeichnung, rot koloriert"
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "Sprachen"
+                ],
+                "en": [
+                    "Languages"
+                ]
+            },
+            "value": {
+                "de": "Griechisch",
+                "en": "Ancient Greek (?1453)"
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "Signatur"
+                ],
+                "en": [
+                    "Shelfmark number"
+                ]
+            },
+            "value": {
+                "en": "Cod. Theol. gr. 8 HAN MAG"
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "Barcode"
+                ],
+                "en": [
+                    "Barcode"
+                ]
+            },
+            "value": {
+                "en": "+Z116561601"
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "IDNR"
+                ],
+                "en": [
+                    "IDNR"
+                ]
+            },
+            "value": {
+                "en": "AC14008234"
+            }
+        }
+    ],
+    "seeAlso": [
+        {
+            "id": "https:\/\/data.onb.ac.at\/rec\/AC14008234",
+            "type": "Catalogue",
+            "label": {
+                "de": [
+                    "Zum Katalog"
+                ],
+                "en": [
+                    "View in catalogue"
+                ]
+            }
+        },
+        {
+            "id": "https:\/\/pdf-service.onb.ac.at\/1001FD42",
+            "type": "PdfGenerator",
+            "label": {
+                "de": [
+                    "PDF-Service"
+                ],
+                "en": [
+                    "PDF-Service"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "label": "1",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kQHe3msbC\/full\/max\/0\/default.jpg",
+            "width": 3779,
+            "height": 4632
+        },
+        {
+            "label": "2",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kQHkbJhjU\/full\/max\/0\/default.jpg",
+            "width": 3779,
+            "height": 4632
+        },
+        {
+            "label": "3",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kQHs8qXsk\/full\/max\/0\/default.jpg",
+            "width": 1346,
+            "height": 4510
+        },
+        {
+            "label": "4",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kQHygNN22\/full\/max\/0\/default.jpg",
+            "width": 3478,
+            "height": 4419
+        },
+        {
+            "label": "5",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kQJ6DuCAJ\/full\/max\/0\/default.jpg",
+            "width": 3407,
+            "height": 4325
+        },
+        {
+            "label": "6",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kQJCmS2Ja\/full\/max\/0\/default.jpg",
+            "width": 3369,
+            "height": 4347
+        },
+        {
+            "label": "7",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kQJKJxrSr\/full\/max\/0\/default.jpg",
+            "width": 3373,
+            "height": 4325
+        },
+        {
+            "label": "8",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kQJRrVgb8\/full\/max\/0\/default.jpg",
+            "width": 3369,
+            "height": 4312
+        },
+        {
+            "label": "9",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kQJYQ2WjQ\/full\/max\/0\/default.jpg",
+            "width": 3294,
+            "height": 4287
+        },
+        {
+            "label": "10",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kQnQgKXyY\/full\/max\/0\/default.jpg",
+            "width": 3123,
+            "height": 4205
+        },
+        {
+            "label": "11",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kQnXDrN7p\/full\/max\/0\/default.jpg",
+            "width": 3294,
+            "height": 4287
+        },
+        {
+            "label": "12",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kQndmPCG6\/full\/max\/0\/default.jpg",
+            "width": 3251,
+            "height": 4205
+        },
+        {
+            "label": "13",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kQnkJv2QN\/full\/max\/0\/default.jpg",
+            "width": 3336,
+            "height": 4287
+        },
+        {
+            "label": "14",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kQnrrSrYe\/full\/max\/0\/default.jpg",
+            "width": 3280,
+            "height": 4205
+        },
+        {
+            "label": "15",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kQnyPyggv\/full\/max\/0\/default.jpg",
+            "width": 3336,
+            "height": 4287
+        },
+        {
+            "label": "16",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kQo5wWWqC\/full\/max\/0\/default.jpg",
+            "width": 3280,
+            "height": 4205
+        },
+        {
+            "label": "17",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kQoCV3LyU\/full\/max\/0\/default.jpg",
+            "width": 3336,
+            "height": 4287
+        },
+        {
+            "label": "18",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kQoK2aB7k\/full\/max\/0\/default.jpg",
+            "width": 3280,
+            "height": 4205
+        },
+        {
+            "label": "19",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kQoRa71G2\/full\/max\/0\/default.jpg",
+            "width": 3336,
+            "height": 4287
+        },
+        {
+            "label": "20",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kRHHrQ2WA\/full\/max\/0\/default.jpg",
+            "width": 3280,
+            "height": 4205
+        },
+        {
+            "label": "21",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kRHQPvreS\/full\/max\/0\/default.jpg",
+            "width": 3336,
+            "height": 4287
+        },
+        {
+            "label": "22",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kRHWwTgni\/full\/max\/0\/default.jpg",
+            "width": 3304,
+            "height": 4243
+        },
+        {
+            "label": "23",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kRHdUzWvz\/full\/max\/0\/default.jpg",
+            "width": 3336,
+            "height": 4287
+        },
+        {
+            "label": "24",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kRHk2XM5G\/full\/max\/0\/default.jpg",
+            "width": 3304,
+            "height": 4243
+        },
+        {
+            "label": "25",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kRHra4BDY\/full\/max\/0\/default.jpg",
+            "width": 3336,
+            "height": 4287
+        },
+        {
+            "label": "26",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kRHy7b1Mp\/full\/max\/0\/default.jpg",
+            "width": 3304,
+            "height": 4243
+        },
+        {
+            "label": "27",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kRJ5f7qW6\/full\/max\/0\/default.jpg",
+            "width": 3336,
+            "height": 4287
+        },
+        {
+            "label": "28",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kRJCCefeN\/full\/max\/0\/default.jpg",
+            "width": 3360,
+            "height": 4243
+        },
+        {
+            "label": "29",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kRJJkBVne\/full\/max\/0\/default.jpg",
+            "width": 3336,
+            "height": 4287
+        },
+        {
+            "label": "30",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kRnB2UX2n\/full\/max\/0\/default.jpg",
+            "width": 3282,
+            "height": 4243
+        },
+        {
+            "label": "31",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kRnHa1MB4\/full\/max\/0\/default.jpg",
+            "width": 3336,
+            "height": 4287
+        },
+        {
+            "label": "32",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kRnQ7YBKL\/full\/max\/0\/default.jpg",
+            "width": 3282,
+            "height": 4352
+        },
+        {
+            "label": "33",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kRnWf51Tc\/full\/max\/0\/default.jpg",
+            "width": 3336,
+            "height": 4287
+        },
+        {
+            "label": "34",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kRndCbqbt\/full\/max\/0\/default.jpg",
+            "width": 3282,
+            "height": 4352
+        },
+        {
+            "label": "35",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kRnjk8fkA\/full\/max\/0\/default.jpg",
+            "width": 3336,
+            "height": 4287
+        },
+        {
+            "label": "36",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kRnrHfVtS\/full\/max\/0\/default.jpg",
+            "width": 3282,
+            "height": 4352
+        },
+        {
+            "label": "37",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kRnxqCL2i\/full\/max\/0\/default.jpg",
+            "width": 3336,
+            "height": 4287
+        },
+        {
+            "label": "38",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kRo5NjAAz\/full\/max\/0\/default.jpg",
+            "width": 3282,
+            "height": 4352
+        },
+        {
+            "label": "39",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kRoBvFzKG\/full\/max\/0\/default.jpg",
+            "width": 3336,
+            "height": 4287
+        },
+        {
+            "label": "40",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kSH4CZ1ZQ\/full\/max\/0\/default.jpg",
+            "width": 3282,
+            "height": 4384
+        },
+        {
+            "label": "41",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kSHAk5qhg\/full\/max\/0\/default.jpg",
+            "width": 3336,
+            "height": 4287
+        },
+        {
+            "label": "42",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kSHHHcfqx\/full\/max\/0\/default.jpg",
+            "width": 3282,
+            "height": 4322
+        },
+        {
+            "label": "43",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kSHPq9VzE\/full\/max\/0\/default.jpg",
+            "width": 3336,
+            "height": 4287
+        },
+        {
+            "label": "44",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kSHWNgL8W\/full\/max\/0\/default.jpg",
+            "width": 3282,
+            "height": 4322
+        },
+        {
+            "label": "45",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kSHcvDAGn\/full\/max\/0\/default.jpg",
+            "width": 3336,
+            "height": 4287
+        },
+        {
+            "label": "46",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kSHjTjzR4\/full\/max\/0\/default.jpg",
+            "width": 3282,
+            "height": 4322
+        },
+        {
+            "label": "47",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kSHr1GpZL\/full\/max\/0\/default.jpg",
+            "width": 3336,
+            "height": 4287
+        },
+        {
+            "label": "48",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kSHxYoehc\/full\/max\/0\/default.jpg",
+            "width": 3282,
+            "height": 4322
+        },
+        {
+            "label": "49",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kSJ56LUqt\/full\/max\/0\/default.jpg",
+            "width": 3336,
+            "height": 4368
+        },
+        {
+            "label": "50",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kSmwNdW62\/full\/max\/0\/default.jpg",
+            "width": 3282,
+            "height": 4322
+        },
+        {
+            "label": "51",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kSn3vALEJ\/full\/max\/0\/default.jpg",
+            "width": 3336,
+            "height": 4324
+        },
+        {
+            "label": "52",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kSnAThANa\/full\/max\/0\/default.jpg",
+            "width": 3332,
+            "height": 4332
+        },
+        {
+            "label": "53",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kSnH1DzWr\/full\/max\/0\/default.jpg",
+            "width": 3336,
+            "height": 4324
+        },
+        {
+            "label": "54",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kSnPYkpf8\/full\/max\/0\/default.jpg",
+            "width": 3332,
+            "height": 4332
+        },
+        {
+            "label": "55",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kSnW6HeoQ\/full\/max\/0\/default.jpg",
+            "width": 3336,
+            "height": 4324
+        },
+        {
+            "label": "56",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kSncdpUwg\/full\/max\/0\/default.jpg",
+            "width": 3332,
+            "height": 4332
+        },
+        {
+            "label": "57",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kSnjBMK5x\/full\/max\/0\/default.jpg",
+            "width": 3336,
+            "height": 4324
+        },
+        {
+            "label": "58",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kSnqit9EE\/full\/max\/0\/default.jpg",
+            "width": 3332,
+            "height": 4332
+        },
+        {
+            "label": "59",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kSnxGQyNW\/full\/max\/0\/default.jpg",
+            "width": 3336,
+            "height": 4324
+        },
+        {
+            "label": "60",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kTGpYhzce\/full\/max\/0\/default.jpg",
+            "width": 3332,
+            "height": 4332
+        },
+        {
+            "label": "61",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kTGw6Epkv\/full\/max\/0\/default.jpg",
+            "width": 3403,
+            "height": 4326
+        },
+        {
+            "label": "62",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kTH3dmeuC\/full\/max\/0\/default.jpg",
+            "width": 3332,
+            "height": 4332
+        },
+        {
+            "label": "63",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kTHABJV3U\/full\/max\/0\/default.jpg",
+            "width": 3371,
+            "height": 4327
+        },
+        {
+            "label": "64",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kTHGiqKBk\/full\/max\/0\/default.jpg",
+            "width": 3332,
+            "height": 4332
+        },
+        {
+            "label": "65",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kTHPGN9L2\/full\/max\/0\/default.jpg",
+            "width": 3371,
+            "height": 4327
+        },
+        {
+            "label": "66",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kTHVotyUJ\/full\/max\/0\/default.jpg",
+            "width": 3332,
+            "height": 4332
+        },
+        {
+            "label": "67",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kTHcMRoca\/full\/max\/0\/default.jpg",
+            "width": 3371,
+            "height": 4327
+        },
+        {
+            "label": "68",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kTHitxdkr\/full\/max\/0\/default.jpg",
+            "width": 3332,
+            "height": 4332
+        },
+        {
+            "label": "69",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kTHqSVTu8\/full\/max\/0\/default.jpg",
+            "width": 3434,
+            "height": 4327
+        },
+        {
+            "label": "70",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kTmhinV9G\/full\/max\/0\/default.jpg",
+            "width": 3332,
+            "height": 4332
+        },
+        {
+            "label": "71",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kTmpGKKHY\/full\/max\/0\/default.jpg",
+            "width": 3434,
+            "height": 4327
+        },
+        {
+            "label": "72",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kTmvor9Rp\/full\/max\/0\/default.jpg",
+            "width": 3362,
+            "height": 4332
+        },
+        {
+            "label": "73",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kTn3MNya6\/full\/max\/0\/default.jpg",
+            "width": 3434,
+            "height": 4327
+        },
+        {
+            "label": "74",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kTn9tuoiN\/full\/max\/0\/default.jpg",
+            "width": 3362,
+            "height": 4332
+        },
+        {
+            "label": "75",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kTnGSSdre\/full\/max\/0\/default.jpg",
+            "width": 3434,
+            "height": 4327
+        },
+        {
+            "label": "76",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kTnNyyTzv\/full\/max\/0\/default.jpg",
+            "width": 3401,
+            "height": 4332
+        },
+        {
+            "label": "77",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kTnVXWJ9C\/full\/max\/0\/default.jpg",
+            "width": 3434,
+            "height": 4327
+        },
+        {
+            "label": "78",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kTnc538HU\/full\/max\/0\/default.jpg",
+            "width": 3401,
+            "height": 4332
+        },
+        {
+            "label": "79",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kTnicZxRk\/full\/max\/0\/default.jpg",
+            "width": 3434,
+            "height": 4326
+        },
+        {
+            "label": "80",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kUGatryft\/full\/max\/0\/default.jpg",
+            "width": 3401,
+            "height": 4332
+        },
+        {
+            "label": "81",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kUGhSPopA\/full\/max\/0\/default.jpg",
+            "width": 3434,
+            "height": 4326
+        },
+        {
+            "label": "82",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kUGoyvdxS\/full\/max\/0\/default.jpg",
+            "width": 3332,
+            "height": 4332
+        },
+        {
+            "label": "83",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kUGvXTU6i\/full\/max\/0\/default.jpg",
+            "width": 3434,
+            "height": 4326
+        },
+        {
+            "label": "84",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kUH34zJEz\/full\/max\/0\/default.jpg",
+            "width": 3332,
+            "height": 4332
+        },
+        {
+            "label": "85",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kUH9cX8PG\/full\/max\/0\/default.jpg",
+            "width": 3434,
+            "height": 4326
+        },
+        {
+            "label": "86",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kUHGA3xXY\/full\/max\/0\/default.jpg",
+            "width": 3332,
+            "height": 4332
+        },
+        {
+            "label": "87",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kUHNhanfp\/full\/max\/0\/default.jpg",
+            "width": 2113,
+            "height": 4326
+        },
+        {
+            "label": "88",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kUHVF7cp6\/full\/max\/0\/default.jpg",
+            "width": 2069,
+            "height": 4353
+        },
+        {
+            "label": "89",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kUHbneSxN\/full\/max\/0\/default.jpg",
+            "width": 3434,
+            "height": 4326
+        },
+        {
+            "label": "90",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kUmU4wUCW\/full\/max\/0\/default.jpg",
+            "width": 3306,
+            "height": 4353
+        },
+        {
+            "label": "91",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kUmacUJLn\/full\/max\/0\/default.jpg",
+            "width": 3434,
+            "height": 4326
+        },
+        {
+            "label": "92",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kUmhA18V4\/full\/max\/0\/default.jpg",
+            "width": 3350,
+            "height": 4353
+        },
+        {
+            "label": "93",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kUmohXxdL\/full\/max\/0\/default.jpg",
+            "width": 3434,
+            "height": 4326
+        },
+        {
+            "label": "94",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kUmvF4nmc\/full\/max\/0\/default.jpg",
+            "width": 3350,
+            "height": 4370
+        },
+        {
+            "label": "95",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kUn2nbcut\/full\/max\/0\/default.jpg",
+            "width": 3434,
+            "height": 4327
+        },
+        {
+            "label": "96",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kUn9L8T4A\/full\/max\/0\/default.jpg",
+            "width": 3350,
+            "height": 4370
+        },
+        {
+            "label": "97",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kUnFsfHCS\/full\/max\/0\/default.jpg",
+            "width": 3434,
+            "height": 4327
+        },
+        {
+            "label": "98",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kUnNRC7Li\/full\/max\/0\/default.jpg",
+            "width": 3350,
+            "height": 3810
+        },
+        {
+            "label": "99",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kUnUxiwUz\/full\/max\/0\/default.jpg",
+            "width": 3434,
+            "height": 4327
+        },
+        {
+            "label": "100",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nbmPz4xbp\/full\/max\/0\/default.jpg",
+            "width": 3398,
+            "height": 4297
+        },
+        {
+            "label": "101",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nbmWXbnk6\/full\/max\/0\/default.jpg",
+            "width": 3434,
+            "height": 4327
+        },
+        {
+            "label": "102",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nbmd58ctN\/full\/max\/0\/default.jpg",
+            "width": 3398,
+            "height": 4297
+        },
+        {
+            "label": "103",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nbmjcfT2e\/full\/max\/0\/default.jpg",
+            "width": 3434,
+            "height": 4327
+        },
+        {
+            "label": "104",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nbmrACHAv\/full\/max\/0\/default.jpg",
+            "width": 3398,
+            "height": 4297
+        },
+        {
+            "label": "105",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nbmxhj7KC\/full\/max\/0\/default.jpg",
+            "width": 3434,
+            "height": 4298
+        },
+        {
+            "label": "106",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nbn5FFwTU\/full\/max\/0\/default.jpg",
+            "width": 3398,
+            "height": 4297
+        },
+        {
+            "label": "107",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nbnBnnmbk\/full\/max\/0\/default.jpg",
+            "width": 3434,
+            "height": 4298
+        },
+        {
+            "label": "108",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nbnJLKbk2\/full\/max\/0\/default.jpg",
+            "width": 3398,
+            "height": 4297
+        },
+        {
+            "label": "109",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nbnQsrRtJ\/full\/max\/0\/default.jpg",
+            "width": 3434,
+            "height": 4298
+        },
+        {
+            "label": "110",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ncGHA9T8S\/full\/max\/0\/default.jpg",
+            "width": 3429,
+            "height": 4297
+        },
+        {
+            "label": "111",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ncGPhgHGi\/full\/max\/0\/default.jpg",
+            "width": 3434,
+            "height": 4298
+        },
+        {
+            "label": "112",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ncGWFD7Qz\/full\/max\/0\/default.jpg",
+            "width": 3429,
+            "height": 4344
+        },
+        {
+            "label": "113",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ncGcnjwZG\/full\/max\/0\/default.jpg",
+            "width": 3434,
+            "height": 4298
+        },
+        {
+            "label": "114",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ncGjLGmhY\/full\/max\/0\/default.jpg",
+            "width": 3429,
+            "height": 4344
+        },
+        {
+            "label": "115",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ncGqsobqp\/full\/max\/0\/default.jpg",
+            "width": 3389,
+            "height": 4298
+        },
+        {
+            "label": "116",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ncGxRLRz6\/full\/max\/0\/default.jpg",
+            "width": 3429,
+            "height": 4344
+        },
+        {
+            "label": "117",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ncH4xsG8N\/full\/max\/0\/default.jpg",
+            "width": 3389,
+            "height": 4298
+        },
+        {
+            "label": "118",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ncHBWQ6Ge\/full\/max\/0\/default.jpg",
+            "width": 3429,
+            "height": 4344
+        },
+        {
+            "label": "119",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ncHJ3vvQv\/full\/max\/0\/default.jpg",
+            "width": 3389,
+            "height": 4298
+        },
+        {
+            "label": "120",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ncmALDwf4\/full\/max\/0\/default.jpg",
+            "width": 3429,
+            "height": 4344
+        },
+        {
+            "label": "121",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ncmGskmoL\/full\/max\/0\/default.jpg",
+            "width": 3424,
+            "height": 4325
+        },
+        {
+            "label": "122",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ncmPRHbwc\/full\/max\/0\/default.jpg",
+            "width": 3429,
+            "height": 4344
+        },
+        {
+            "label": "123",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ncmVxpS5t\/full\/max\/0\/default.jpg",
+            "width": 3424,
+            "height": 4325
+        },
+        {
+            "label": "124",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ncmcWMGEA\/full\/max\/0\/default.jpg",
+            "width": 3429,
+            "height": 4344
+        },
+        {
+            "label": "125",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ncmj3t6NS\/full\/max\/0\/default.jpg",
+            "width": 3424,
+            "height": 4325
+        },
+        {
+            "label": "126",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ncmqbQvWi\/full\/max\/0\/default.jpg",
+            "width": 3429,
+            "height": 4395
+        },
+        {
+            "label": "127",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ncmx8wkez\/full\/max\/0\/default.jpg",
+            "width": 3424,
+            "height": 4325
+        },
+        {
+            "label": "128",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ncn4gUaoG\/full\/max\/0\/default.jpg",
+            "width": 3429,
+            "height": 4395
+        },
+        {
+            "label": "129",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ncnBE1QwY\/full\/max\/0\/default.jpg",
+            "width": 3424,
+            "height": 4325
+        },
+        {
+            "label": "130",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ndG3WJSBg\/full\/max\/0\/default.jpg",
+            "width": 3429,
+            "height": 4395
+        },
+        {
+            "label": "131",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ndGA3qGKx\/full\/max\/0\/default.jpg",
+            "width": 3424,
+            "height": 4325
+        },
+        {
+            "label": "132",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ndGGbN6UE\/full\/max\/0\/default.jpg",
+            "width": 3429,
+            "height": 4395
+        },
+        {
+            "label": "133",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ndGP8tvcW\/full\/max\/0\/default.jpg",
+            "width": 3424,
+            "height": 4325
+        },
+        {
+            "label": "134",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ndGVgRkkn\/full\/max\/0\/default.jpg",
+            "width": 3429,
+            "height": 4395
+        },
+        {
+            "label": "135",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ndGcDxau4\/full\/max\/0\/default.jpg",
+            "width": 3424,
+            "height": 4325
+        },
+        {
+            "label": "136",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ndGimVR3L\/full\/max\/0\/default.jpg",
+            "width": 3429,
+            "height": 4395
+        },
+        {
+            "label": "137",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ndGqK2FBc\/full\/max\/0\/default.jpg",
+            "width": 3424,
+            "height": 4325
+        },
+        {
+            "label": "138",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ndGwrZ5Kt\/full\/max\/0\/default.jpg",
+            "width": 3429,
+            "height": 4395
+        },
+        {
+            "label": "139",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ndH4Q5uUA\/full\/max\/0\/default.jpg",
+            "width": 3424,
+            "height": 4325
+        },
+        {
+            "label": "140",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ndkvgNviJ\/full\/max\/0\/default.jpg",
+            "width": 3429,
+            "height": 4395
+        },
+        {
+            "label": "141",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ndm3Dukra\/full\/max\/0\/default.jpg",
+            "width": 3424,
+            "height": 4325
+        },
+        {
+            "label": "142",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ndm9mSazr\/full\/max\/0\/default.jpg",
+            "width": 3429,
+            "height": 4395
+        },
+        {
+            "label": "143",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ndmGJyR98\/full\/max\/0\/default.jpg",
+            "width": 3424,
+            "height": 4325
+        },
+        {
+            "label": "144",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ndmNrWFHQ\/full\/max\/0\/default.jpg",
+            "width": 3429,
+            "height": 4395
+        },
+        {
+            "label": "145",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ndmVQ35Rg\/full\/max\/0\/default.jpg",
+            "width": 3424,
+            "height": 4325
+        },
+        {
+            "label": "146",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ndmbwZuZx\/full\/max\/0\/default.jpg",
+            "width": 3429,
+            "height": 4395
+        },
+        {
+            "label": "147",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ndmiV6jiE\/full\/max\/0\/default.jpg",
+            "width": 3424,
+            "height": 4325
+        },
+        {
+            "label": "148",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ndmq2dZrW\/full\/max\/0\/default.jpg",
+            "width": 3429,
+            "height": 4395
+        },
+        {
+            "label": "149",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ndmwaAPzn\/full\/max\/0\/default.jpg",
+            "width": 3424,
+            "height": 4325
+        },
+        {
+            "label": "150",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4neForTREv\/full\/max\/0\/default.jpg",
+            "width": 3429,
+            "height": 4395
+        },
+        {
+            "label": "151",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4neFvPzFPC\/full\/max\/0\/default.jpg",
+            "width": 3424,
+            "height": 4325
+        },
+        {
+            "label": "152",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4neG2wX5XU\/full\/max\/0\/default.jpg",
+            "width": 3390,
+            "height": 4395
+        },
+        {
+            "label": "153",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4neG9V3ufk\/full\/max\/0\/default.jpg",
+            "width": 3424,
+            "height": 4325
+        },
+        {
+            "label": "154",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4neGG2ajp2\/full\/max\/0\/default.jpg",
+            "width": 3390,
+            "height": 4395
+        },
+        {
+            "label": "155",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4neGNa7ZxJ\/full\/max\/0\/default.jpg",
+            "width": 3424,
+            "height": 4325
+        },
+        {
+            "label": "156",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4neGV7eQ6a\/full\/max\/0\/default.jpg",
+            "width": 3390,
+            "height": 4395
+        },
+        {
+            "label": "157",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4neGbfBEEr\/full\/max\/0\/default.jpg",
+            "width": 3424,
+            "height": 4325
+        },
+        {
+            "label": "158",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4neGiCi4P8\/full\/max\/0\/default.jpg",
+            "width": 3390,
+            "height": 4395
+        },
+        {
+            "label": "159",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4neGpkEtXQ\/full\/max\/0\/default.jpg",
+            "width": 3424,
+            "height": 4325
+        },
+        {
+            "label": "160",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nekh2XumY\/full\/max\/0\/default.jpg",
+            "width": 3390,
+            "height": 4395
+        },
+        {
+            "label": "161",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nekoa4jup\/full\/max\/0\/default.jpg",
+            "width": 3424,
+            "height": 4325
+        },
+        {
+            "label": "162",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nekv7ba46\/full\/max\/0\/default.jpg",
+            "width": 3390,
+            "height": 4395
+        },
+        {
+            "label": "163",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nem2f8QCN\/full\/max\/0\/default.jpg",
+            "width": 3424,
+            "height": 4324
+        },
+        {
+            "label": "164",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nem9CfELe\/full\/max\/0\/default.jpg",
+            "width": 3390,
+            "height": 4395
+        },
+        {
+            "label": "165",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nemFkC4Uv\/full\/max\/0\/default.jpg",
+            "width": 3398,
+            "height": 4324
+        },
+        {
+            "label": "166",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nemNHitdC\/full\/max\/0\/default.jpg",
+            "width": 3390,
+            "height": 4395
+        },
+        {
+            "label": "167",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nemUqFimU\/full\/max\/0\/default.jpg",
+            "width": 2053,
+            "height": 4324
+        },
+        {
+            "label": "168",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nembNnYuk\/full\/max\/0\/default.jpg",
+            "width": 2014,
+            "height": 4395
+        },
+        {
+            "label": "169",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nemhvKP42\/full\/max\/0\/default.jpg",
+            "width": 3393,
+            "height": 4291
+        },
+        {
+            "label": "170",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nfFaCcQJA\/full\/max\/0\/default.jpg",
+            "width": 3365,
+            "height": 4395
+        },
+        {
+            "label": "171",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nfFgk9ESS\/full\/max\/0\/default.jpg",
+            "width": 3393,
+            "height": 4291
+        },
+        {
+            "label": "172",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nfFoHg4ai\/full\/max\/0\/default.jpg",
+            "width": 3365,
+            "height": 4373
+        },
+        {
+            "label": "173",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nfFuqCtiz\/full\/max\/0\/default.jpg",
+            "width": 3393,
+            "height": 4291
+        },
+        {
+            "label": "174",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nfG2NjisG\/full\/max\/0\/default.jpg",
+            "width": 3402,
+            "height": 4373
+        },
+        {
+            "label": "175",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nfG8vGZ1Y\/full\/max\/0\/default.jpg",
+            "width": 3393,
+            "height": 4291
+        },
+        {
+            "label": "176",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nfGFToP9p\/full\/max\/0\/default.jpg",
+            "width": 3402,
+            "height": 4373
+        },
+        {
+            "label": "177",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nfGN1LDJ6\/full\/max\/0\/default.jpg",
+            "width": 3393,
+            "height": 4291
+        },
+        {
+            "label": "178",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nfGUYs3SN\/full\/max\/0\/default.jpg",
+            "width": 3402,
+            "height": 4373
+        },
+        {
+            "label": "179",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nfGb6Psae\/full\/max\/0\/default.jpg",
+            "width": 3393,
+            "height": 4291
+        },
+        {
+            "label": "180",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nfkTNgtpn\/full\/max\/0\/default.jpg",
+            "width": 3402,
+            "height": 4373
+        },
+        {
+            "label": "181",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nfkZvDiy4\/full\/max\/0\/default.jpg",
+            "width": 3393,
+            "height": 4291
+        },
+        {
+            "label": "182",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nfkgTkZ7L\/full\/max\/0\/default.jpg",
+            "width": 3402,
+            "height": 4373
+        },
+        {
+            "label": "183",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nfko1HPFc\/full\/max\/0\/default.jpg",
+            "width": 3444,
+            "height": 4333
+        },
+        {
+            "label": "184",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nfkuYpDPt\/full\/max\/0\/default.jpg",
+            "width": 3402,
+            "height": 4373
+        },
+        {
+            "label": "185",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nfm26M3YA\/full\/max\/0\/default.jpg",
+            "width": 3444,
+            "height": 4333
+        },
+        {
+            "label": "186",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nfm8dssgS\/full\/max\/0\/default.jpg",
+            "width": 3447,
+            "height": 4373
+        },
+        {
+            "label": "187",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nfmFBQhpi\/full\/max\/0\/default.jpg",
+            "width": 3444,
+            "height": 4333
+        },
+        {
+            "label": "188",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nfmMiwXxz\/full\/max\/0\/default.jpg",
+            "width": 3447,
+            "height": 4373
+        },
+        {
+            "label": "189",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4nfmUGUN7G\/full\/max\/0\/default.jpg",
+            "width": 3444,
+            "height": 4333
+        },
+        {
+            "label": "190",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ngFLYmPMQ\/full\/max\/0\/default.jpg",
+            "width": 3447,
+            "height": 4373
+        },
+        {
+            "label": "191",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ngFT6JDVg\/full\/max\/0\/default.jpg",
+            "width": 3444,
+            "height": 4333
+        },
+        {
+            "label": "192",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ngFZdq3dx\/full\/max\/0\/default.jpg",
+            "width": 3447,
+            "height": 4373
+        },
+        {
+            "label": "193",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ngFgBMsnE\/full\/max\/0\/default.jpg",
+            "width": 3444,
+            "height": 4333
+        },
+        {
+            "label": "194",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ngFnithvW\/full\/max\/0\/default.jpg",
+            "width": 3447,
+            "height": 4373
+        },
+        {
+            "label": "195",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ngFuGRY4n\/full\/max\/0\/default.jpg",
+            "width": 3444,
+            "height": 4333
+        },
+        {
+            "label": "196",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ngG1oxND4\/full\/max\/0\/default.jpg",
+            "width": 3447,
+            "height": 4373
+        },
+        {
+            "label": "197",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ngG8MVCML\/full\/max\/0\/default.jpg",
+            "width": 3492,
+            "height": 4333
+        },
+        {
+            "label": "198",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ngGEu22Vc\/full\/max\/0\/default.jpg",
+            "width": 3447,
+            "height": 4373
+        },
+        {
+            "label": "199",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ngGMSYrdt\/full\/max\/0\/default.jpg",
+            "width": 2051,
+            "height": 4333
+        },
+        {
+            "label": "200",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4poFGTtski\/full\/max\/0\/default.jpg",
+            "width": 1983,
+            "height": 4317
+        },
+        {
+            "label": "201",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4poFP1Rhtz\/full\/max\/0\/default.jpg",
+            "width": 3483,
+            "height": 4333
+        },
+        {
+            "label": "202",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4poFVYxY3G\/full\/max\/0\/default.jpg",
+            "width": 3382,
+            "height": 4317
+        },
+        {
+            "label": "203",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4poFc6VNBY\/full\/max\/0\/default.jpg",
+            "width": 3483,
+            "height": 4333
+        },
+        {
+            "label": "204",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4poFie2CKp\/full\/max\/0\/default.jpg",
+            "width": 3416,
+            "height": 4346
+        },
+        {
+            "label": "205",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4poFqBZ2U6\/full\/max\/0\/default.jpg",
+            "width": 3483,
+            "height": 4333
+        },
+        {
+            "label": "206",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4poFwj5rcN\/full\/max\/0\/default.jpg",
+            "width": 3416,
+            "height": 4346
+        },
+        {
+            "label": "207",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4poG4Gcgke\/full\/max\/0\/default.jpg",
+            "width": 2165,
+            "height": 4333
+        },
+        {
+            "label": "208",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4poGAp9Wtv\/full\/max\/0\/default.jpg",
+            "width": 2070,
+            "height": 4346
+        },
+        {
+            "label": "209",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4poGHMgM3C\/full\/max\/0\/default.jpg",
+            "width": 3443,
+            "height": 4333
+        },
+        {
+            "label": "210",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pok9dyNHL\/full\/max\/0\/default.jpg",
+            "width": 3352,
+            "height": 4317
+        },
+        {
+            "label": "211",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pokGBWCRc\/full\/max\/0\/default.jpg",
+            "width": 3443,
+            "height": 4333
+        },
+        {
+            "label": "212",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pokNj32Zt\/full\/max\/0\/default.jpg",
+            "width": 3352,
+            "height": 4317
+        },
+        {
+            "label": "213",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pokVGZriA\/full\/max\/0\/default.jpg",
+            "width": 3443,
+            "height": 4333
+        },
+        {
+            "label": "214",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pokbp6grS\/full\/max\/0\/default.jpg",
+            "width": 3352,
+            "height": 4317
+        },
+        {
+            "label": "215",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pokiMdWzi\/full\/max\/0\/default.jpg",
+            "width": 2081,
+            "height": 4333
+        },
+        {
+            "label": "216",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pokpuAM8z\/full\/max\/0\/default.jpg",
+            "width": 2039,
+            "height": 4317
+        },
+        {
+            "label": "217",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pokwShBHG\/full\/max\/0\/default.jpg",
+            "width": 3533,
+            "height": 4333
+        },
+        {
+            "label": "218",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pom3zE1RY\/full\/max\/0\/default.jpg",
+            "width": 3377,
+            "height": 4317
+        },
+        {
+            "label": "219",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pomAXkqZp\/full\/max\/0\/default.jpg",
+            "width": 3503,
+            "height": 4270
+        },
+        {
+            "label": "220",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ppF2p3rox\/full\/max\/0\/default.jpg",
+            "width": 3427,
+            "height": 4317
+        },
+        {
+            "label": "221",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ppF9MagxE\/full\/max\/0\/default.jpg",
+            "width": 2268,
+            "height": 4270
+        },
+        {
+            "label": "222",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ppFFu7X6W\/full\/max\/0\/default.jpg",
+            "width": 2203,
+            "height": 4317
+        },
+        {
+            "label": "223",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ppFNSeMEn\/full\/max\/0\/default.jpg",
+            "width": 3543,
+            "height": 4305
+        },
+        {
+            "label": "224",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ppFUzBBP4\/full\/max\/0\/default.jpg",
+            "width": 3402,
+            "height": 4317
+        },
+        {
+            "label": "225",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ppFbXi1XL\/full\/max\/0\/default.jpg",
+            "width": 3543,
+            "height": 4305
+        },
+        {
+            "label": "226",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ppFi5Eqfc\/full\/max\/0\/default.jpg",
+            "width": 3402,
+            "height": 4342
+        },
+        {
+            "label": "227",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ppFpcmfot\/full\/max\/0\/default.jpg",
+            "width": 3543,
+            "height": 4305
+        },
+        {
+            "label": "228",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ppFwAJVxA\/full\/max\/0\/default.jpg",
+            "width": 3418,
+            "height": 4342
+        },
+        {
+            "label": "229",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ppG3hqL6S\/full\/max\/0\/default.jpg",
+            "width": 3543,
+            "height": 4305
+        },
+        {
+            "label": "230",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ppjuz8MLa\/full\/max\/0\/default.jpg",
+            "width": 3418,
+            "height": 4342
+        },
+        {
+            "label": "231",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ppk2XfBUr\/full\/max\/0\/default.jpg",
+            "width": 3543,
+            "height": 4305
+        },
+        {
+            "label": "232",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ppk95C1d8\/full\/max\/0\/default.jpg",
+            "width": 3418,
+            "height": 4342
+        },
+        {
+            "label": "233",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ppkFciqmQ\/full\/max\/0\/default.jpg",
+            "width": 3543,
+            "height": 4305
+        },
+        {
+            "label": "234",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ppkNAFfug\/full\/max\/0\/default.jpg",
+            "width": 3418,
+            "height": 4342
+        },
+        {
+            "label": "235",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ppkUhnW3x\/full\/max\/0\/default.jpg",
+            "width": 3543,
+            "height": 3585
+        },
+        {
+            "label": "236",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ppkbFKLCE\/full\/max\/0\/default.jpg",
+            "width": 3418,
+            "height": 3375
+        },
+        {
+            "label": "237",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ppkhnrALW\/full\/max\/0\/default.jpg",
+            "width": 3543,
+            "height": 4298
+        },
+        {
+            "label": "238",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ppkpLNzUn\/full\/max\/0\/default.jpg",
+            "width": 3395,
+            "height": 4350
+        },
+        {
+            "label": "239",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4ppkvsupd4\/full\/max\/0\/default.jpg",
+            "width": 3543,
+            "height": 4298
+        },
+        {
+            "label": "240",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pqEoACqsC\/full\/max\/0\/default.jpg",
+            "width": 3395,
+            "height": 4350
+        },
+        {
+            "label": "241",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pqEuhjg1U\/full\/max\/0\/default.jpg",
+            "width": 3543,
+            "height": 4298
+        },
+        {
+            "label": "242",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pqF2FGW9k\/full\/max\/0\/default.jpg",
+            "width": 3395,
+            "height": 4350
+        },
+        {
+            "label": "243",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pqF8noLJ2\/full\/max\/0\/default.jpg",
+            "width": 2315,
+            "height": 4298
+        },
+        {
+            "label": "244",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pqFFLLASJ\/full\/max\/0\/default.jpg",
+            "width": 2193,
+            "height": 4350
+        },
+        {
+            "label": "245",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pqFMsrzaa\/full\/max\/0\/default.jpg",
+            "width": 2138,
+            "height": 4298
+        },
+        {
+            "label": "246",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pqFURPpir\/full\/max\/0\/default.jpg",
+            "width": 2118,
+            "height": 4350
+        },
+        {
+            "label": "247",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pqFaxves8\/full\/max\/0\/default.jpg",
+            "width": 2482,
+            "height": 4298
+        },
+        {
+            "label": "248",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pqFhWTV1Q\/full\/max\/0\/default.jpg",
+            "width": 2397,
+            "height": 4405
+        },
+        {
+            "label": "249",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pqFp3zK9g\/full\/max\/0\/default.jpg",
+            "width": 3470,
+            "height": 4298
+        },
+        {
+            "label": "250",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pqjgLHLPp\/full\/max\/0\/default.jpg",
+            "width": 3381,
+            "height": 4348
+        },
+        {
+            "label": "251",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pqjnspAY6\/full\/max\/0\/default.jpg",
+            "width": 2192,
+            "height": 4298
+        },
+        {
+            "label": "252",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pqjuRLzgN\/full\/max\/0\/default.jpg",
+            "width": 2130,
+            "height": 4348
+        },
+        {
+            "label": "253",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pqk1xsppe\/full\/max\/0\/default.jpg",
+            "width": 2108,
+            "height": 4298
+        },
+        {
+            "label": "254",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pqk8WQexv\/full\/max\/0\/default.jpg",
+            "width": 2009,
+            "height": 4348
+        },
+        {
+            "label": "255",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pqkF3wV7C\/full\/max\/0\/default.jpg",
+            "width": 2108,
+            "height": 4298
+        },
+        {
+            "label": "256",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pqkMbUKFU\/full\/max\/0\/default.jpg",
+            "width": 2009,
+            "height": 4348
+        },
+        {
+            "label": "257",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pqkU919Pk\/full\/max\/0\/default.jpg",
+            "width": 2531,
+            "height": 4298
+        },
+        {
+            "label": "258",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pqkagXyY2\/full\/max\/0\/default.jpg",
+            "width": 2422,
+            "height": 4348
+        },
+        {
+            "label": "259",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pqkhE4ogJ\/full\/max\/0\/default.jpg",
+            "width": 3501,
+            "height": 4298
+        },
+        {
+            "label": "260",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4prEZWMpvS\/full\/max\/0\/default.jpg",
+            "width": 3361,
+            "height": 4348
+        },
+        {
+            "label": "261",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4prEg3tf4i\/full\/max\/0\/default.jpg",
+            "width": 3501,
+            "height": 4298
+        },
+        {
+            "label": "262",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4prEnbRVCz\/full\/max\/0\/default.jpg",
+            "width": 3361,
+            "height": 4404
+        },
+        {
+            "label": "263",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4prEu8xKMG\/full\/max\/0\/default.jpg",
+            "width": 3501,
+            "height": 4298
+        },
+        {
+            "label": "264",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4prF1gV9VY\/full\/max\/0\/default.jpg",
+            "width": 3361,
+            "height": 4404
+        },
+        {
+            "label": "265",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4prF8E1ydp\/full\/max\/0\/default.jpg",
+            "width": 3501,
+            "height": 4318
+        },
+        {
+            "label": "266",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4prFEmYon6\/full\/max\/0\/default.jpg",
+            "width": 3361,
+            "height": 4404
+        },
+        {
+            "label": "267",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4prFMK5dvN\/full\/max\/0\/default.jpg",
+            "width": 3501,
+            "height": 4318
+        },
+        {
+            "label": "268",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4prFTrcU4e\/full\/max\/0\/default.jpg",
+            "width": 3361,
+            "height": 4349
+        },
+        {
+            "label": "269",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4prFaQ9JCv\/full\/max\/0\/default.jpg",
+            "width": 3501,
+            "height": 4318
+        },
+        {
+            "label": "270",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4prjSgSKT4\/full\/max\/0\/default.jpg",
+            "width": 3361,
+            "height": 4349
+        },
+        {
+            "label": "271",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4prjZDy9bL\/full\/max\/0\/default.jpg",
+            "width": 3501,
+            "height": 4318
+        },
+        {
+            "label": "272",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4prjfmVyjc\/full\/max\/0\/default.jpg",
+            "width": 3361,
+            "height": 4349
+        },
+        {
+            "label": "273",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4prjnK2ost\/full\/max\/0\/default.jpg",
+            "width": 3501,
+            "height": 4318
+        },
+        {
+            "label": "274",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4prjtrZe2A\/full\/max\/0\/default.jpg",
+            "width": 3401,
+            "height": 4390
+        },
+        {
+            "label": "275",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4prk1Q6UAS\/full\/max\/0\/default.jpg",
+            "width": 3501,
+            "height": 4318
+        },
+        {
+            "label": "276",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4prk7wdJJi\/full\/max\/0\/default.jpg",
+            "width": 3401,
+            "height": 4390
+        },
+        {
+            "label": "277",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4prkEVA8Sz\/full\/max\/0\/default.jpg",
+            "width": 3501,
+            "height": 4318
+        },
+        {
+            "label": "278",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4prkM2gxbG\/full\/max\/0\/default.jpg",
+            "width": 3401,
+            "height": 4390
+        },
+        {
+            "label": "279",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4prkTaDnjY\/full\/max\/0\/default.jpg",
+            "width": 3501,
+            "height": 4318
+        },
+        {
+            "label": "280",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4psEKrWoyg\/full\/max\/0\/default.jpg",
+            "width": 3401,
+            "height": 4390
+        },
+        {
+            "label": "281",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4psESQ3e7x\/full\/max\/0\/default.jpg",
+            "width": 3501,
+            "height": 4318
+        },
+        {
+            "label": "282",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4psEYwaUGE\/full\/max\/0\/default.jpg",
+            "width": 3401,
+            "height": 4390
+        },
+        {
+            "label": "283",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4psEfV7JQW\/full\/max\/0\/default.jpg",
+            "width": 3501,
+            "height": 4318
+        },
+        {
+            "label": "284",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4psEn2e8Yn\/full\/max\/0\/default.jpg",
+            "width": 3401,
+            "height": 4390
+        },
+        {
+            "label": "285",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4psEtaAxh4\/full\/max\/0\/default.jpg",
+            "width": 3501,
+            "height": 4318
+        },
+        {
+            "label": "286",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4psF17hnqL\/full\/max\/0\/default.jpg",
+            "width": 3401,
+            "height": 4390
+        },
+        {
+            "label": "287",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4psF7fEcyc\/full\/max\/0\/default.jpg",
+            "width": 3501,
+            "height": 4318
+        },
+        {
+            "label": "288",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4psFECmT7t\/full\/max\/0\/default.jpg",
+            "width": 3401,
+            "height": 4390
+        },
+        {
+            "label": "289",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4psFLkJHGA\/full\/max\/0\/default.jpg",
+            "width": 3501,
+            "height": 4318
+        },
+        {
+            "label": "290",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4psjD2bJWJ\/full\/max\/0\/default.jpg",
+            "width": 3401,
+            "height": 4390
+        },
+        {
+            "label": "291",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4psjKa88ea\/full\/max\/0\/default.jpg",
+            "width": 3501,
+            "height": 4318
+        },
+        {
+            "label": "292",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4psjS7exnr\/full\/max\/0\/default.jpg",
+            "width": 3431,
+            "height": 4419
+        },
+        {
+            "label": "293",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4psjYfBnw8\/full\/max\/0\/default.jpg",
+            "width": 3501,
+            "height": 4318
+        },
+        {
+            "label": "294",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4psjfCid5Q\/full\/max\/0\/default.jpg",
+            "width": 3431,
+            "height": 4419
+        },
+        {
+            "label": "295",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4psjmkFTDg\/full\/max\/0\/default.jpg",
+            "width": 2256,
+            "height": 4318
+        },
+        {
+            "label": "296",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4psjtHnHMx\/full\/max\/0\/default.jpg",
+            "width": 2205,
+            "height": 4363
+        },
+        {
+            "label": "297",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4psjzqK7WE\/full\/max\/0\/default.jpg",
+            "width": 2226,
+            "height": 3279
+        },
+        {
+            "label": "298",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4psk7NqweW\/full\/max\/0\/default.jpg",
+            "width": 2120,
+            "height": 3323
+        },
+        {
+            "label": "299",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4pskDvNmnn\/full\/max\/0\/default.jpg",
+            "width": 2250,
+            "height": 4139
+        },
+        {
+            "label": "300",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4rzj8winuc\/full\/max\/0\/default.jpg",
+            "width": 2225,
+            "height": 4318
+        },
+        {
+            "label": "301",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4rzjFVFd3t\/full\/max\/0\/default.jpg",
+            "width": 3491,
+            "height": 4331
+        },
+        {
+            "label": "302",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4rzjN2nTCA\/full\/max\/0\/default.jpg",
+            "width": 3411,
+            "height": 4318
+        },
+        {
+            "label": "303",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4rzjUaKHLS\/full\/max\/0\/default.jpg",
+            "width": 3485,
+            "height": 4331
+        },
+        {
+            "label": "304",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4rzjb7r7Ui\/full\/max\/0\/default.jpg",
+            "width": 3411,
+            "height": 4409
+        },
+        {
+            "label": "305",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4rzjhfNwcz\/full\/max\/0\/default.jpg",
+            "width": 3485,
+            "height": 4331
+        },
+        {
+            "label": "306",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4rzjpCummG\/full\/max\/0\/default.jpg",
+            "width": 3411,
+            "height": 4409
+        },
+        {
+            "label": "307",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4rzjvkSbuY\/full\/max\/0\/default.jpg",
+            "width": 3514,
+            "height": 4331
+        },
+        {
+            "label": "308",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4rzk3HyS3p\/full\/max\/0\/default.jpg",
+            "width": 3411,
+            "height": 4409
+        },
+        {
+            "label": "309",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4rzk9qWGC6\/full\/max\/0\/default.jpg",
+            "width": 3514,
+            "height": 4331
+        },
+        {
+            "label": "310",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s1E27oHSE\/full\/max\/0\/default.jpg",
+            "width": 3411,
+            "height": 4409
+        },
+        {
+            "label": "311",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s1E8fL7aW\/full\/max\/0\/default.jpg",
+            "width": 3514,
+            "height": 4331
+        },
+        {
+            "label": "312",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s1EFCrwin\/full\/max\/0\/default.jpg",
+            "width": 3411,
+            "height": 4409
+        },
+        {
+            "label": "313",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s1EMkPms4\/full\/max\/0\/default.jpg",
+            "width": 3514,
+            "height": 4331
+        },
+        {
+            "label": "314",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s1EUHvc1L\/full\/max\/0\/default.jpg",
+            "width": 3456,
+            "height": 4409
+        },
+        {
+            "label": "315",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s1EaqTS9c\/full\/max\/0\/default.jpg",
+            "width": 3514,
+            "height": 4331
+        },
+        {
+            "label": "316",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s1EhNzGHt\/full\/max\/0\/default.jpg",
+            "width": 3456,
+            "height": 4409
+        },
+        {
+            "label": "317",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s1EovX6SA\/full\/max\/0\/default.jpg",
+            "width": 3514,
+            "height": 4331
+        },
+        {
+            "label": "318",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s1EvU3vaS\/full\/max\/0\/default.jpg",
+            "width": 3456,
+            "height": 4409
+        },
+        {
+            "label": "319",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s1F31akii\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4331
+        },
+        {
+            "label": "320",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s1iuHsmxr\/full\/max\/0\/default.jpg",
+            "width": 3456,
+            "height": 4409
+        },
+        {
+            "label": "321",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s1j1qQc78\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4331
+        },
+        {
+            "label": "322",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s1j8NwSFQ\/full\/max\/0\/default.jpg",
+            "width": 3456,
+            "height": 4409
+        },
+        {
+            "label": "323",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s1jEvUGPg\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4331
+        },
+        {
+            "label": "324",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s1jMU16Xx\/full\/max\/0\/default.jpg",
+            "width": 3456,
+            "height": 4409
+        },
+        {
+            "label": "325",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s1jU1XvgE\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4331
+        },
+        {
+            "label": "326",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s1jaZ4kpW\/full\/max\/0\/default.jpg",
+            "width": 3471,
+            "height": 4409
+        },
+        {
+            "label": "327",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s1jh6baxn\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4331
+        },
+        {
+            "label": "328",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s1joe8R74\/full\/max\/0\/default.jpg",
+            "width": 3471,
+            "height": 4409
+        },
+        {
+            "label": "329",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s1jvBfFFL\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4331
+        },
+        {
+            "label": "330",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s2DnTxGVU\/full\/max\/0\/default.jpg",
+            "width": 3492,
+            "height": 4459
+        },
+        {
+            "label": "331",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s2Du1V6dk\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4331
+        },
+        {
+            "label": "332",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s2E1Z1vn2\/full\/max\/0\/default.jpg",
+            "width": 3492,
+            "height": 4459
+        },
+        {
+            "label": "333",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s2E86YkvJ\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4303
+        },
+        {
+            "label": "334",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s2EEe5b4a\/full\/max\/0\/default.jpg",
+            "width": 3492,
+            "height": 4459
+        },
+        {
+            "label": "335",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s2EMBcRCr\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4303
+        },
+        {
+            "label": "336",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s2ETj9FM8\/full\/max\/0\/default.jpg",
+            "width": 3492,
+            "height": 4413
+        },
+        {
+            "label": "337",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s2EaGg5VQ\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4303
+        },
+        {
+            "label": "338",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s2EgpCudg\/full\/max\/0\/default.jpg",
+            "width": 3492,
+            "height": 4413
+        },
+        {
+            "label": "339",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s2EoMjjmx\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4303
+        },
+        {
+            "label": "340",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s2ife2m26\/full\/max\/0\/default.jpg",
+            "width": 3492,
+            "height": 4413
+        },
+        {
+            "label": "341",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s2inBZbAN\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4303
+        },
+        {
+            "label": "342",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s2itj6RJe\/full\/max\/0\/default.jpg",
+            "width": 3492,
+            "height": 4413
+        },
+        {
+            "label": "343",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s2j1GdFSv\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4302
+        },
+        {
+            "label": "344",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s2j7pA5bC\/full\/max\/0\/default.jpg",
+            "width": 3492,
+            "height": 4413
+        },
+        {
+            "label": "345",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s2jEMgujU\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4302
+        },
+        {
+            "label": "346",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s2jLuDjsk\/full\/max\/0\/default.jpg",
+            "width": 3492,
+            "height": 4383
+        },
+        {
+            "label": "347",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s2jTSka22\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4302
+        },
+        {
+            "label": "348",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s2jZzHQAJ\/full\/max\/0\/default.jpg",
+            "width": 3492,
+            "height": 4427
+        },
+        {
+            "label": "349",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s2jgXpEJa\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4302
+        },
+        {
+            "label": "350",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s3DYp7FYi\/full\/max\/0\/default.jpg",
+            "width": 3492,
+            "height": 4427
+        },
+        {
+            "label": "351",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s3DfMe5gz\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4302
+        },
+        {
+            "label": "352",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s3DmuAuqG\/full\/max\/0\/default.jpg",
+            "width": 3492,
+            "height": 4427
+        },
+        {
+            "label": "353",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s3DtShjyY\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4302
+        },
+        {
+            "label": "354",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s3DzzEa7p\/full\/max\/0\/default.jpg",
+            "width": 3492,
+            "height": 4427
+        },
+        {
+            "label": "355",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s3E7XmQG6\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4302
+        },
+        {
+            "label": "356",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s3EE5JEQN\/full\/max\/0\/default.jpg",
+            "width": 3492,
+            "height": 4427
+        },
+        {
+            "label": "357",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s3ELcq4Ye\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4302
+        },
+        {
+            "label": "358",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s3ETAMtgv\/full\/max\/0\/default.jpg",
+            "width": 3492,
+            "height": 4427
+        },
+        {
+            "label": "359",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s3EZhtiqC\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4302
+        },
+        {
+            "label": "360",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s3iRzBk5L\/full\/max\/0\/default.jpg",
+            "width": 3492,
+            "height": 4427
+        },
+        {
+            "label": "361",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s3iYXiaDc\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4302
+        },
+        {
+            "label": "362",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s3if5FQMt\/full\/max\/0\/default.jpg",
+            "width": 3492,
+            "height": 4427
+        },
+        {
+            "label": "363",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s3imcnEWA\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4302
+        },
+        {
+            "label": "364",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s3itAK4eS\/full\/max\/0\/default.jpg",
+            "width": 3492,
+            "height": 4427
+        },
+        {
+            "label": "365",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s3izhqtni\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4302
+        },
+        {
+            "label": "366",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s3j7FNivz\/full\/max\/0\/default.jpg",
+            "width": 3492,
+            "height": 4427
+        },
+        {
+            "label": "367",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s3jDnuZ5G\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4302
+        },
+        {
+            "label": "368",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s3jLLSPDY\/full\/max\/0\/default.jpg",
+            "width": 3492,
+            "height": 4427
+        },
+        {
+            "label": "369",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s3jSsyDMp\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4337
+        },
+        {
+            "label": "370",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s4DKAGEbx\/full\/max\/0\/default.jpg",
+            "width": 3492,
+            "height": 4427
+        },
+        {
+            "label": "371",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s4DRho4kE\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4337
+        },
+        {
+            "label": "372",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s4DYFKttW\/full\/max\/0\/default.jpg",
+            "width": 3492,
+            "height": 4427
+        },
+        {
+            "label": "373",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s4Denrj2n\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4337
+        },
+        {
+            "label": "374",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s4DmLPZB4\/full\/max\/0\/default.jpg",
+            "width": 3446,
+            "height": 4374
+        },
+        {
+            "label": "375",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s4DssvPKL\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4337
+        },
+        {
+            "label": "376",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s4DzRTDTc\/full\/max\/0\/default.jpg",
+            "width": 3446,
+            "height": 4374
+        },
+        {
+            "label": "377",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s4E6xz3bt\/full\/max\/0\/default.jpg",
+            "width": 3459,
+            "height": 4337
+        },
+        {
+            "label": "378",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s4EDWWskA\/full\/max\/0\/default.jpg",
+            "width": 3446,
+            "height": 4374
+        },
+        {
+            "label": "379",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s4EL43htS\/full\/max\/0\/default.jpg",
+            "width": 3460,
+            "height": 4336
+        },
+        {
+            "label": "380",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s4iCLLj8a\/full\/max\/0\/default.jpg",
+            "width": 3446,
+            "height": 4374
+        },
+        {
+            "label": "381",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s4iJssZGr\/full\/max\/0\/default.jpg",
+            "width": 2127,
+            "height": 4336
+        },
+        {
+            "label": "382",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s4iRRQPR8\/full\/max\/0\/default.jpg",
+            "width": 2071,
+            "height": 4313
+        },
+        {
+            "label": "383",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s4iXxwDZQ\/full\/max\/0\/default.jpg",
+            "width": 3397,
+            "height": 4336
+        },
+        {
+            "label": "384",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s4ieWU3hg\/full\/max\/0\/default.jpg",
+            "width": 3428,
+            "height": 4353
+        },
+        {
+            "label": "385",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s4im3zsqx\/full\/max\/0\/default.jpg",
+            "width": 3397,
+            "height": 4336
+        },
+        {
+            "label": "386",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s4isbXhzE\/full\/max\/0\/default.jpg",
+            "width": 3428,
+            "height": 4353
+        },
+        {
+            "label": "387",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s4iz94Y8W\/full\/max\/0\/default.jpg",
+            "width": 3397,
+            "height": 4336
+        },
+        {
+            "label": "388",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s4j6gbNGn\/full\/max\/0\/default.jpg",
+            "width": 3428,
+            "height": 4353
+        },
+        {
+            "label": "389",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s4jDE8CR4\/full\/max\/0\/default.jpg",
+            "width": 2480,
+            "height": 4336
+        },
+        {
+            "label": "390",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s5D5WRDfC\/full\/max\/0\/default.jpg",
+            "width": 2448,
+            "height": 4353
+        },
+        {
+            "label": "391",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s5DC3x3oU\/full\/max\/0\/default.jpg",
+            "width": 3496,
+            "height": 4336
+        },
+        {
+            "label": "392",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s5DJbUswk\/full\/max\/0\/default.jpg",
+            "width": 3483,
+            "height": 4353
+        },
+        {
+            "label": "393",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s5DR91i62\/full\/max\/0\/default.jpg",
+            "width": 3496,
+            "height": 4336
+        },
+        {
+            "label": "394",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s5DXgYYEJ\/full\/max\/0\/default.jpg",
+            "width": 3483,
+            "height": 4353
+        },
+        {
+            "label": "395",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s5DeE5NNa\/full\/max\/0\/default.jpg",
+            "width": 3496,
+            "height": 4336
+        },
+        {
+            "label": "396",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s5DkmcCWr\/full\/max\/0\/default.jpg",
+            "width": 3483,
+            "height": 4353
+        },
+        {
+            "label": "397",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s5DsK92f8\/full\/max\/0\/default.jpg",
+            "width": 3496,
+            "height": 4336
+        },
+        {
+            "label": "398",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s5DyrfroQ\/full\/max\/0\/default.jpg",
+            "width": 3483,
+            "height": 4353
+        },
+        {
+            "label": "399",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4s5E6QCgwg\/full\/max\/0\/default.jpg",
+            "width": 2083,
+            "height": 4336
+        },
+        {
+            "label": "400",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uCD1RYi4W\/full\/max\/0\/default.jpg",
+            "width": 2050,
+            "height": 4394
+        },
+        {
+            "label": "401",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uCD7y5YCn\/full\/max\/0\/default.jpg",
+            "width": 3516,
+            "height": 4336
+        },
+        {
+            "label": "402",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uCDEWcNM4\/full\/max\/0\/default.jpg",
+            "width": 3431,
+            "height": 4278
+        },
+        {
+            "label": "403",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uCDM49CVL\/full\/max\/0\/default.jpg",
+            "width": 3516,
+            "height": 4336
+        },
+        {
+            "label": "404",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uCDTbg2dc\/full\/max\/0\/default.jpg",
+            "width": 3490,
+            "height": 4335
+        },
+        {
+            "label": "405",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uCDa9Crmt\/full\/max\/0\/default.jpg",
+            "width": 3516,
+            "height": 4336
+        },
+        {
+            "label": "406",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uCDggjgvA\/full\/max\/0\/default.jpg",
+            "width": 3490,
+            "height": 4335
+        },
+        {
+            "label": "407",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uCDoEGX4S\/full\/max\/0\/default.jpg",
+            "width": 3516,
+            "height": 4336
+        },
+        {
+            "label": "408",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uCDumoMCi\/full\/max\/0\/default.jpg",
+            "width": 3490,
+            "height": 4335
+        },
+        {
+            "label": "409",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uCE2KLBLz\/full\/max\/0\/default.jpg",
+            "width": 3497,
+            "height": 4443
+        },
+        {
+            "label": "410",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uChtbdCb8\/full\/max\/0\/default.jpg",
+            "width": 3490,
+            "height": 4362
+        },
+        {
+            "label": "411",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uCi19A2jQ\/full\/max\/0\/default.jpg",
+            "width": 3497,
+            "height": 4443
+        },
+        {
+            "label": "412",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uCi7ggrsg\/full\/max\/0\/default.jpg",
+            "width": 3490,
+            "height": 4362
+        },
+        {
+            "label": "413",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uCiEEDh1x\/full\/max\/0\/default.jpg",
+            "width": 3497,
+            "height": 4443
+        },
+        {
+            "label": "414",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uCiLmkXAE\/full\/max\/0\/default.jpg",
+            "width": 3491,
+            "height": 4362
+        },
+        {
+            "label": "415",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uCiTKHMJW\/full\/max\/0\/default.jpg",
+            "width": 3497,
+            "height": 4443
+        },
+        {
+            "label": "416",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uCiZrpBSn\/full\/max\/0\/default.jpg",
+            "width": 3491,
+            "height": 4362
+        },
+        {
+            "label": "417",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uCigQM1b4\/full\/max\/0\/default.jpg",
+            "width": 3435,
+            "height": 4412
+        },
+        {
+            "label": "418",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uCinwsqjL\/full\/max\/0\/default.jpg",
+            "width": 3491,
+            "height": 4362
+        },
+        {
+            "label": "419",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uCiuVQfsc\/full\/max\/0\/default.jpg",
+            "width": 3435,
+            "height": 4412
+        },
+        {
+            "label": "420",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uDCmmhh7k\/full\/max\/0\/default.jpg",
+            "width": 3491,
+            "height": 4362
+        },
+        {
+            "label": "421",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uDCtKEXG2\/full\/max\/0\/default.jpg",
+            "width": 2250,
+            "height": 4412
+        },
+        {
+            "label": "422",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uDCzrmMQJ\/full\/max\/0\/default.jpg",
+            "width": 2144,
+            "height": 4323
+        },
+        {
+            "label": "423",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uDD7QJBYa\/full\/max\/0\/default.jpg",
+            "width": 3440,
+            "height": 4412
+        },
+        {
+            "label": "424",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uDDDwq1gr\/full\/max\/0\/default.jpg",
+            "width": 3380,
+            "height": 4260
+        },
+        {
+            "label": "425",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uDDLVMqq8\/full\/max\/0\/default.jpg",
+            "width": 3440,
+            "height": 4412
+        },
+        {
+            "label": "426",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uDDT2tfyQ\/full\/max\/0\/default.jpg",
+            "width": 3380,
+            "height": 4260
+        },
+        {
+            "label": "427",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uDDZaRW7g\/full\/max\/0\/default.jpg",
+            "width": 3440,
+            "height": 4412
+        },
+        {
+            "label": "428",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uDDg7xLFx\/full\/max\/0\/default.jpg",
+            "width": 3380,
+            "height": 4307
+        },
+        {
+            "label": "429",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uDDnfVAQE\/full\/max\/0\/default.jpg",
+            "width": 3440,
+            "height": 4412
+        },
+        {
+            "label": "430",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uDhewnBeN\/full\/max\/0\/default.jpg",
+            "width": 3380,
+            "height": 4307
+        },
+        {
+            "label": "431",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uDhmVK1ne\/full\/max\/0\/default.jpg",
+            "width": 3440,
+            "height": 4412
+        },
+        {
+            "label": "432",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uDht2qqvv\/full\/max\/0\/default.jpg",
+            "width": 3380,
+            "height": 4307
+        },
+        {
+            "label": "433",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uDhzaNg5C\/full\/max\/0\/default.jpg",
+            "width": 3440,
+            "height": 4412
+        },
+        {
+            "label": "434",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uDi77uWDU\/full\/max\/0\/default.jpg",
+            "width": 3380,
+            "height": 4307
+        },
+        {
+            "label": "435",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uDiDfSLMk\/full\/max\/0\/default.jpg",
+            "width": 3440,
+            "height": 4412
+        },
+        {
+            "label": "436",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uDiLCyAW2\/full\/max\/0\/default.jpg",
+            "width": 3380,
+            "height": 4307
+        },
+        {
+            "label": "437",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uDiSkVzeJ\/full\/max\/0\/default.jpg",
+            "width": 3402,
+            "height": 4412
+        },
+        {
+            "label": "438",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uDiZJ2pna\/full\/max\/0\/default.jpg",
+            "width": 3380,
+            "height": 4307
+        },
+        {
+            "label": "439",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uDifqZevr\/full\/max\/0\/default.jpg",
+            "width": 3417,
+            "height": 4412
+        },
+        {
+            "label": "440",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uECY7rgAz\/full\/max\/0\/default.jpg",
+            "width": 3380,
+            "height": 4307
+        },
+        {
+            "label": "441",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uECefPWKG\/full\/max\/0\/default.jpg",
+            "width": 3417,
+            "height": 4437
+        },
+        {
+            "label": "442",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uECmCvLTY\/full\/max\/0\/default.jpg",
+            "width": 3380,
+            "height": 4307
+        },
+        {
+            "label": "443",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uECskTAbp\/full\/max\/0\/default.jpg",
+            "width": 3417,
+            "height": 4437
+        },
+        {
+            "label": "444",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uECzHyzk6\/full\/max\/0\/default.jpg",
+            "width": 3380,
+            "height": 4307
+        },
+        {
+            "label": "445",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uED6qWptN\/full\/max\/0\/default.jpg",
+            "width": 3417,
+            "height": 4437
+        },
+        {
+            "label": "446",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uEDDP3f2e\/full\/max\/0\/default.jpg",
+            "width": 3380,
+            "height": 4339
+        },
+        {
+            "label": "447",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uEDKvaVAv\/full\/max\/0\/default.jpg",
+            "width": 3417,
+            "height": 4437
+        },
+        {
+            "label": "448",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uEDSU7KKC\/full\/max\/0\/default.jpg",
+            "width": 3380,
+            "height": 4339
+        },
+        {
+            "label": "449",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uEDZ1e9TU\/full\/max\/0\/default.jpg",
+            "width": 3417,
+            "height": 4488
+        },
+        {
+            "label": "450",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uEhRHwAhc\/full\/max\/0\/default.jpg",
+            "width": 3380,
+            "height": 4339
+        },
+        {
+            "label": "451",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uEhXqTzqt\/full\/max\/0\/default.jpg",
+            "width": 3417,
+            "height": 4425
+        },
+        {
+            "label": "452",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uEheNzpzA\/full\/max\/0\/default.jpg",
+            "width": 3380,
+            "height": 4339
+        },
+        {
+            "label": "453",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uEhkvXf8S\/full\/max\/0\/default.jpg",
+            "width": 3417,
+            "height": 4425
+        },
+        {
+            "label": "454",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uEhsU4VGi\/full\/max\/0\/default.jpg",
+            "width": 3380,
+            "height": 4339
+        },
+        {
+            "label": "455",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uEhz1bKQz\/full\/max\/0\/default.jpg",
+            "width": 3417,
+            "height": 4425
+        },
+        {
+            "label": "456",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uEi6Z89ZG\/full\/max\/0\/default.jpg",
+            "width": 3380,
+            "height": 4339
+        },
+        {
+            "label": "457",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uEiD6eyhY\/full\/max\/0\/default.jpg",
+            "width": 3418,
+            "height": 4425
+        },
+        {
+            "label": "458",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uEiKeBoqp\/full\/max\/0\/default.jpg",
+            "width": 3380,
+            "height": 4339
+        },
+        {
+            "label": "459",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uEiSBidz6\/full\/max\/0\/default.jpg",
+            "width": 3418,
+            "height": 4425
+        },
+        {
+            "label": "460",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uFCJU1fEE\/full\/max\/0\/default.jpg",
+            "width": 3380,
+            "height": 4339
+        },
+        {
+            "label": "461",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uFCR1YVNW\/full\/max\/0\/default.jpg",
+            "width": 3418,
+            "height": 4425
+        },
+        {
+            "label": "462",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uFCXZ5KWn\/full\/max\/0\/default.jpg",
+            "width": 3380,
+            "height": 4339
+        },
+        {
+            "label": "463",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uFCe6c9f4\/full\/max\/0\/default.jpg",
+            "width": 3418,
+            "height": 4425
+        },
+        {
+            "label": "464",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uFCke8yoL\/full\/max\/0\/default.jpg",
+            "width": 3380,
+            "height": 4339
+        },
+        {
+            "label": "465",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uFCsBfowc\/full\/max\/0\/default.jpg",
+            "width": 3418,
+            "height": 4425
+        },
+        {
+            "label": "466",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uFCyjCe5t\/full\/max\/0\/default.jpg",
+            "width": 3380,
+            "height": 4339
+        },
+        {
+            "label": "467",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uFD6GjUEA\/full\/max\/0\/default.jpg",
+            "width": 3418,
+            "height": 4405
+        },
+        {
+            "label": "468",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uFDCpGJNS\/full\/max\/0\/default.jpg",
+            "width": 3380,
+            "height": 4339
+        },
+        {
+            "label": "469",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uFDKMo8Wi\/full\/max\/0\/default.jpg",
+            "width": 3418,
+            "height": 4405
+        },
+        {
+            "label": "470",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uFhBe69kr\/full\/max\/0\/default.jpg",
+            "width": 3380,
+            "height": 4339
+        },
+        {
+            "label": "471",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uFhJBcyu8\/full\/max\/0\/default.jpg",
+            "width": 2118,
+            "height": 4405
+        },
+        {
+            "label": "472",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uFhQj9p3Q\/full\/max\/0\/default.jpg",
+            "width": 2055,
+            "height": 4279
+        },
+        {
+            "label": "473",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uFhXGgeBg\/full\/max\/0\/default.jpg",
+            "width": 2112,
+            "height": 4405
+        },
+        {
+            "label": "474",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uFhdpDUKx\/full\/max\/0\/default.jpg",
+            "width": 2010,
+            "height": 4320
+        },
+        {
+            "label": "475",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uFhkMkJUE\/full\/max\/0\/default.jpg",
+            "width": 3431,
+            "height": 4344
+        },
+        {
+            "label": "476",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uFhruH8cW\/full\/max\/0\/default.jpg",
+            "width": 3300,
+            "height": 4243
+        },
+        {
+            "label": "477",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uFhySoxkn\/full\/max\/0\/default.jpg",
+            "width": 3431,
+            "height": 4344
+        },
+        {
+            "label": "478",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uFi5zLnu4\/full\/max\/0\/default.jpg",
+            "width": 3422,
+            "height": 4243
+        },
+        {
+            "label": "479",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uFiCXsd3L\/full\/max\/0\/default.jpg",
+            "width": 3449,
+            "height": 4376
+        },
+        {
+            "label": "480",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uGC4pAeHU\/full\/max\/0\/default.jpg",
+            "width": 3422,
+            "height": 4319
+        },
+        {
+            "label": "481",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uGCBMhURk\/full\/max\/0\/default.jpg",
+            "width": 3449,
+            "height": 4376
+        },
+        {
+            "label": "482",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uGCHuEJa2\/full\/max\/0\/default.jpg",
+            "width": 3422,
+            "height": 4319
+        },
+        {
+            "label": "483",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uGCQSm8iJ\/full\/max\/0\/default.jpg",
+            "width": 3449,
+            "height": 4376
+        },
+        {
+            "label": "484",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uGCWzHxra\/full\/max\/0\/default.jpg",
+            "width": 3422,
+            "height": 4319
+        },
+        {
+            "label": "485",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uGCdXpnzr\/full\/max\/0\/default.jpg",
+            "width": 3449,
+            "height": 4376
+        },
+        {
+            "label": "486",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uGCk5Md98\/full\/max\/0\/default.jpg",
+            "width": 3422,
+            "height": 4319
+        },
+        {
+            "label": "487",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uGCrctTHQ\/full\/max\/0\/default.jpg",
+            "width": 3449,
+            "height": 4376
+        },
+        {
+            "label": "488",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uGCyARHRg\/full\/max\/0\/default.jpg",
+            "width": 3422,
+            "height": 4319
+        },
+        {
+            "label": "489",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uGD5hx7Zx\/full\/max\/0\/default.jpg",
+            "width": 3449,
+            "height": 4376
+        },
+        {
+            "label": "490",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uGgwzF8p6\/full\/max\/0\/default.jpg",
+            "width": 3422,
+            "height": 4319
+        },
+        {
+            "label": "491",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uGh4XmxxN\/full\/max\/0\/default.jpg",
+            "width": 3449,
+            "height": 4376
+        },
+        {
+            "label": "492",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uGhB5Jo6e\/full\/max\/0\/default.jpg",
+            "width": 3422,
+            "height": 4319
+        },
+        {
+            "label": "493",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uGhHcqdEv\/full\/max\/0\/default.jpg",
+            "width": 3449,
+            "height": 4327
+        },
+        {
+            "label": "494",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uGhQANTPC\/full\/max\/0\/default.jpg",
+            "width": 3422,
+            "height": 4319
+        },
+        {
+            "label": "495",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uGhWhuHXU\/full\/max\/0\/default.jpg",
+            "width": 3449,
+            "height": 4373
+        },
+        {
+            "label": "496",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uGhdFS7fk\/full\/max\/0\/default.jpg",
+            "width": 3422,
+            "height": 4319
+        },
+        {
+            "label": "497",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uGhjnxwp2\/full\/max\/0\/default.jpg",
+            "width": 3449,
+            "height": 4373
+        },
+        {
+            "label": "498",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uGhrLVmxJ\/full\/max\/0\/default.jpg",
+            "width": 3422,
+            "height": 4319
+        },
+        {
+            "label": "499",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4uGhxt2c6a\/full\/max\/0\/default.jpg",
+            "width": 3449,
+            "height": 4373
+        },
+        {
+            "label": "500",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wPgsuNdDQ\/full\/max\/0\/default.jpg",
+            "width": 3422,
+            "height": 4319
+        },
+        {
+            "label": "501",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wPgzSuTMg\/full\/max\/0\/default.jpg",
+            "width": 3449,
+            "height": 4373
+        },
+        {
+            "label": "502",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wPh6zSHVx\/full\/max\/0\/default.jpg",
+            "width": 3422,
+            "height": 4319
+        },
+        {
+            "label": "503",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wPhDXy7eE\/full\/max\/0\/default.jpg",
+            "width": 3449,
+            "height": 4373
+        },
+        {
+            "label": "504",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wPhL5VwnW\/full\/max\/0\/default.jpg",
+            "width": 3422,
+            "height": 4340
+        },
+        {
+            "label": "505",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wPhSd2mvn\/full\/max\/0\/default.jpg",
+            "width": 3449,
+            "height": 4373
+        },
+        {
+            "label": "506",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wPhZAZc54\/full\/max\/0\/default.jpg",
+            "width": 3391,
+            "height": 4340
+        },
+        {
+            "label": "507",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wPhfi6SDL\/full\/max\/0\/default.jpg",
+            "width": 3449,
+            "height": 4373
+        },
+        {
+            "label": "508",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wPhnFdGMc\/full\/max\/0\/default.jpg",
+            "width": 3391,
+            "height": 4340
+        },
+        {
+            "label": "509",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wPhtoA6Vt\/full\/max\/0\/default.jpg",
+            "width": 3449,
+            "height": 4373
+        },
+        {
+            "label": "510",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wQBm5T7k2\/full\/max\/0\/default.jpg",
+            "width": 3391,
+            "height": 4340
+        },
+        {
+            "label": "511",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wQBscywtJ\/full\/max\/0\/default.jpg",
+            "width": 3449,
+            "height": 4373
+        },
+        {
+            "label": "512",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wQBzAWn2a\/full\/max\/0\/default.jpg",
+            "width": 3391,
+            "height": 4340
+        },
+        {
+            "label": "513",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wQC6i3cAr\/full\/max\/0\/default.jpg",
+            "width": 2064,
+            "height": 4373
+        },
+        {
+            "label": "514",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wQCDFaSK8\/full\/max\/0\/default.jpg",
+            "width": 2041,
+            "height": 4278
+        },
+        {
+            "label": "515",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wQCKo7GTQ\/full\/max\/0\/default.jpg",
+            "width": 3463,
+            "height": 4373
+        },
+        {
+            "label": "516",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wQCSLe6bg\/full\/max\/0\/default.jpg",
+            "width": 3387,
+            "height": 4299
+        },
+        {
+            "label": "517",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wQCYtAvjx\/full\/max\/0\/default.jpg",
+            "width": 3413,
+            "height": 4373
+        },
+        {
+            "label": "518",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wQCfRhktE\/full\/max\/0\/default.jpg",
+            "width": 3431,
+            "height": 4346
+        },
+        {
+            "label": "519",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wQCmyEb2W\/full\/max\/0\/default.jpg",
+            "width": 3413,
+            "height": 4373
+        },
+        {
+            "label": "520",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wQgeFXcGe\/full\/max\/0\/default.jpg",
+            "width": 3431,
+            "height": 4346
+        },
+        {
+            "label": "521",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wQgko4SQv\/full\/max\/0\/default.jpg",
+            "width": 2124,
+            "height": 4373
+        },
+        {
+            "label": "522",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wQgsLbGZC\/full\/max\/0\/default.jpg",
+            "width": 2174,
+            "height": 4346
+        },
+        {
+            "label": "523",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wQgyt86hU\/full\/max\/0\/default.jpg",
+            "width": 3433,
+            "height": 4373
+        },
+        {
+            "label": "524",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wQh6Revqk\/full\/max\/0\/default.jpg",
+            "width": 3356,
+            "height": 4346
+        },
+        {
+            "label": "525",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wQhCyBkz2\/full\/max\/0\/default.jpg",
+            "width": 3433,
+            "height": 4373
+        },
+        {
+            "label": "526",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wQhKWib8J\/full\/max\/0\/default.jpg",
+            "width": 3356,
+            "height": 4346
+        },
+        {
+            "label": "527",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wQhS4FRGa\/full\/max\/0\/default.jpg",
+            "width": 3433,
+            "height": 4373
+        },
+        {
+            "label": "528",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wQhYbnFQr\/full\/max\/0\/default.jpg",
+            "width": 3356,
+            "height": 4346
+        },
+        {
+            "label": "529",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wQhf9K5Z8\/full\/max\/0\/default.jpg",
+            "width": 3433,
+            "height": 4373
+        },
+        {
+            "label": "530",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wRBXRc6oG\/full\/max\/0\/default.jpg",
+            "width": 3384,
+            "height": 4346
+        },
+        {
+            "label": "531",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wRBdy8vwY\/full\/max\/0\/default.jpg",
+            "width": 3433,
+            "height": 4373
+        },
+        {
+            "label": "532",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wRBkWfm5p\/full\/max\/0\/default.jpg",
+            "width": 3384,
+            "height": 4346
+        },
+        {
+            "label": "533",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wRBs4CbE6\/full\/max\/0\/default.jpg",
+            "width": 3433,
+            "height": 4373
+        },
+        {
+            "label": "534",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wRBybjRNN\/full\/max\/0\/default.jpg",
+            "width": 3370,
+            "height": 4308
+        },
+        {
+            "label": "535",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wRC69GFWe\/full\/max\/0\/default.jpg",
+            "width": 3433,
+            "height": 4373
+        },
+        {
+            "label": "536",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wRCCgo5ev\/full\/max\/0\/default.jpg",
+            "width": 3370,
+            "height": 4308
+        },
+        {
+            "label": "537",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wRCKEKuoC\/full\/max\/0\/default.jpg",
+            "width": 3433,
+            "height": 4373
+        },
+        {
+            "label": "538",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wRCRmrjwU\/full\/max\/0\/default.jpg",
+            "width": 3370,
+            "height": 4308
+        },
+        {
+            "label": "539",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wRCYKPa5k\/full\/max\/0\/default.jpg",
+            "width": 3433,
+            "height": 4373
+        },
+        {
+            "label": "540",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wRgQbgbKt\/full\/max\/0\/default.jpg",
+            "width": 3370,
+            "height": 4308
+        },
+        {
+            "label": "541",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wRgX9DRUA\/full\/max\/0\/default.jpg",
+            "width": 3433,
+            "height": 4373
+        },
+        {
+            "label": "542",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wRgdgkFcS\/full\/max\/0\/default.jpg",
+            "width": 3332,
+            "height": 4308
+        },
+        {
+            "label": "543",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wRgkEH5ki\/full\/max\/0\/default.jpg",
+            "width": 3433,
+            "height": 4373
+        },
+        {
+            "label": "544",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wRgrmoutz\/full\/max\/0\/default.jpg",
+            "width": 3332,
+            "height": 4308
+        },
+        {
+            "label": "545",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wRgyKLk3G\/full\/max\/0\/default.jpg",
+            "width": 3433,
+            "height": 4373
+        },
+        {
+            "label": "546",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wRh5rsaBY\/full\/max\/0\/default.jpg",
+            "width": 3332,
+            "height": 4308
+        },
+        {
+            "label": "547",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wRhCQQQKp\/full\/max\/0\/default.jpg",
+            "width": 3433,
+            "height": 4373
+        },
+        {
+            "label": "548",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wRhJwwEU6\/full\/max\/0\/default.jpg",
+            "width": 3332,
+            "height": 4308
+        },
+        {
+            "label": "549",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wRhRVU4cN\/full\/max\/0\/default.jpg",
+            "width": 3433,
+            "height": 4373
+        },
+        {
+            "label": "550",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wSBHmm5rW\/full\/max\/0\/default.jpg",
+            "width": 3332,
+            "height": 4308
+        },
+        {
+            "label": "551",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wSBQKHuzn\/full\/max\/0\/default.jpg",
+            "width": 3433,
+            "height": 4373
+        },
+        {
+            "label": "552",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wSBWrpk94\/full\/max\/0\/default.jpg",
+            "width": 3332,
+            "height": 4308
+        },
+        {
+            "label": "553",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wSBdQMaHL\/full\/max\/0\/default.jpg",
+            "width": 3338,
+            "height": 4343
+        },
+        {
+            "label": "554",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wSBjwtQRc\/full\/max\/0\/default.jpg",
+            "width": 3332,
+            "height": 4308
+        },
+        {
+            "label": "555",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wSBrVREZt\/full\/max\/0\/default.jpg",
+            "width": 3338,
+            "height": 4343
+        },
+        {
+            "label": "556",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wSBy2x4iA\/full\/max\/0\/default.jpg",
+            "width": 3332,
+            "height": 4308
+        },
+        {
+            "label": "557",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wSC5aUtrS\/full\/max\/0\/default.jpg",
+            "width": 3338,
+            "height": 4293
+        },
+        {
+            "label": "558",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wSCC81izi\/full\/max\/0\/default.jpg",
+            "width": 3332,
+            "height": 4308
+        },
+        {
+            "label": "559",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wSCJfYZ8z\/full\/max\/0\/default.jpg",
+            "width": 3389,
+            "height": 4293
+        },
+        {
+            "label": "560",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wSgAwqaP8\/full\/max\/0\/default.jpg",
+            "width": 3332,
+            "height": 4308
+        },
+        {
+            "label": "561",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wSgHVNQXQ\/full\/max\/0\/default.jpg",
+            "width": 3389,
+            "height": 4293
+        },
+        {
+            "label": "562",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wSgQ2uEfg\/full\/max\/0\/default.jpg",
+            "width": 3332,
+            "height": 4308
+        },
+        {
+            "label": "563",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wSgWaS4ox\/full\/max\/0\/default.jpg",
+            "width": 3389,
+            "height": 4293
+        },
+        {
+            "label": "564",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wSgd7xtxE\/full\/max\/0\/default.jpg",
+            "width": 3332,
+            "height": 4308
+        },
+        {
+            "label": "565",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wSgjfVj6W\/full\/max\/0\/default.jpg",
+            "width": 3389,
+            "height": 4293
+        },
+        {
+            "label": "566",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wSgrD2ZEn\/full\/max\/0\/default.jpg",
+            "width": 3332,
+            "height": 4308
+        },
+        {
+            "label": "567",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4wSgxkZPP4\/full\/max\/0\/default.jpg",
+            "width": 3482,
+            "height": 4355
+        },
+        {
+            "label": "568",
+            "motivation": null,
+            "img": "https:\/\/api.onb.ac.at\/iiif\/image\/v3\/1001FD42\/uk4nGb4kQHXWF3Sv\/full\/max\/0\/default.jpg",
+            "width": 3239,
+            "height": 4164
+        }
+    ]
+}
