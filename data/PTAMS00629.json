@@ -1,0 +1,1425 @@
+{
+    "manuscript": "PTAMS00629",
+    "source": {
+        "link": "https:\/\/digi.vatlib.it\/iiif\/MSS_Vat.sir.368\/manifest.json",
+        "downloaded_at": "2025-12-31 17:58:41"
+    },
+    "attribution": "Images Copyright Biblioteca Apostolica Vaticana",
+    "label": "Vat.sir.368",
+    "description": "",
+    "metaData": [
+        {
+            "label": {
+                "en": "Shelfmark"
+            },
+            "value": {
+                "en": "Vat.sir.368"
+            }
+        }
+    ],
+    "seeAlso": [
+        "https:\/\/digi.vatlib.it\/mss\/detail\/Vat.sir.368"
+    ],
+    "items": [
+        {
+            "label": "1",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0001.jp2",
+            "width": 2416,
+            "height": 1801
+        },
+        {
+            "label": "2",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0002.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "3",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0003.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "4",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0004.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "5",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0005.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "6",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0006.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "7",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0007.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "8",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0008.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "9",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0009.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "10",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0010.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "11",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0011.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "12",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0012.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "13",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0013.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "14",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0014.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "15",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0015.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "16",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0016.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "17",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0017.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "18",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0018.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "19",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0019.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "20",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0020.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "21",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0021.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "22",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0022.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "23",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0023.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "24",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0024.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "25",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0025.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "26",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0026.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "27",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0027.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "28",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0028.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "29",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0029.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "30",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0030.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "31",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0031.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "32",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0032.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "33",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0033.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "34",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0034.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "35",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0035.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "36",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0036.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "37",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0037.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "38",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0038.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "39",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0039.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "40",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0040.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "41",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0041.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "42",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0042.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "43",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0043.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "44",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0044.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "45",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0045.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "46",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0046.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "47",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0047.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "48",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0048.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "49",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0049.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "50",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0050.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "51",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0051.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "52",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0052.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "53",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0053.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "54",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0054.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "55",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0055.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "56",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0056.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "57",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0057.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "58",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0058.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "59",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0059.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "60",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0060.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "61",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0061.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "62",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0062.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "63",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0063.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "64",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0064.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "65",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0065.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "66",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0066.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "67",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0067.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "68",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0068.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "69",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0069.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "70",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0070.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "71",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0071.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "72",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0072.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "73",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0073.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "74",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0074.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "75",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0075.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "76",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0076.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "77",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0077.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "78",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0078.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "79",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0079.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "80",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0080.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "81",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0081.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "82",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0082.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "83",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0083.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "84",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0084.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "85",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0085.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "86",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0086.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "87",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0087.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "88",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0088.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "89",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0089.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "90",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0090.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "91",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0091.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "92",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0092.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "93",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0093.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "94",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0094.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "95",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0095.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "96",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0096.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "97",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0097.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "98",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0098.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "99",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0099.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "100",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0100.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "101",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0101.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "102",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0102.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "103",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0103.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "104",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0104.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "105",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0105.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "106",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0106.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "107",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0107.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "108",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0108.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "109",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0109.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "110",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0110.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "111",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0111.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "112",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0112.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "113",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0113.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "114",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0114.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "115",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0115.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "116",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0116.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "117",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0117.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "118",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0118.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "119",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0119.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "120",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0120.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "121",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0121.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "122",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0122.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "123",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0123.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "124",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0124.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "125",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0125.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "126",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0126.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "127",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0127.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "128",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0128.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "129",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0129.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "130",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0130.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "131",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0131.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "132",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0132.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "133",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0133.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "134",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0134.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "135",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0135.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "136",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0136.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "137",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0137.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "138",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0138.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "139",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0139.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "140",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0140.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "141",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0141.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "142",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0142.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "143",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0143.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "144",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0144.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "145",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0145.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "146",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0146.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "147",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0147.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "148",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0148.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "149",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0149.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "150",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0150.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "151",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0151.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "152",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0152.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "153",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0153.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "154",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0154.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "155",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0155.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "156",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0156.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "157",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0157.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "158",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0158.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "159",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0159.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "160",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0160.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "161",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0161.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "162",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0162.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "163",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0163.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "164",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0164.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "165",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0165.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "166",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0166.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "167",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0167.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "168",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0168.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "169",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0169.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "170",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0170.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "171",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0171.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "172",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0172.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "173",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0173.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "174",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0174.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "175",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0175.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "176",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0176.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "177",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0177.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "178",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0178.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "179",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0179.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "180",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0180.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "181",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0181.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "182",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0182.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "183",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0183.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "184",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0184.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "185",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0185.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "186",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0186.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "187",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0187.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "188",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0188.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "189",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0189.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "190",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0190.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "191",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0191.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "192",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0192.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "193",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0193.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "194",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0194.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "195",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0195.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "196",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0196.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "197",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0197.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "198",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0198.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "199",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0199.jp2",
+            "width": 2440,
+            "height": 1803
+        },
+        {
+            "label": "200",
+            "motivation": "sc:painting",
+            "img": "https:\/\/digi.vatlib.it\/iiifimage\/MSS_Vat.sir.368\/Vat.sir.368_0200.jp2",
+            "width": 2440,
+            "height": 1803
+        }
+    ]
+}
