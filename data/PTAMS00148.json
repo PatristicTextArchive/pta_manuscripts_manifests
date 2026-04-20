@@ -1,0 +1,2564 @@
+{
+    "manuscript": "PTAMS00148",
+    "source": {
+        "link": "https:\/\/dspace.mountathos.org\/iiif\/manifest\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363",
+        "downloaded_at": "2026-04-20 12:41:25"
+    },
+    "attribution": null,
+    "label": [
+        "Image"
+    ],
+    "description": null,
+    "metaData": [],
+    "seeAlso": null,
+    "items": [
+        {
+            "label": "1",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0000.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "2",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0001.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "3",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0002.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "4",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0003.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "5",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0004.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "6",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0005.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "7",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0006.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "8",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0007.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "9",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0008.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "10",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0009.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "11",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0010.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "12",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0011.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "13",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0012.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "14",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0013.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "15",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0014.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "16",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0015.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "17",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0016.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "18",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0017.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "19",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0018.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "20",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0019.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "21",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0020.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "22",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0021.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "23",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0022.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "24",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0023.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "25",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0024.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "26",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0025.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "27",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0026.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "28",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0027.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "29",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0028.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "30",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0029.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "31",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0030.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "32",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0031.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "33",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0032.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "34",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0033.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "35",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0034.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "36",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0035.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "37",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0036.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "38",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0037.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "39",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0038.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "40",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0039.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "41",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0040.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "42",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0041.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "43",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0042.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "44",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0043.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "45",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0044.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "46",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0045.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "47",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0046.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "48",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0047.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "49",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0048.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "50",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0049.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "51",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0050.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "52",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0051.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "53",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0052.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "54",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0053.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "55",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0054.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "56",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0055.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "57",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0056.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "58",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0057.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "59",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0058.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "60",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0059.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "61",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0060.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "62",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0061.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "63",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0062.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "64",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0063.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "65",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0064.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "66",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0065.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "67",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0066.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "68",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0067.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "69",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0068.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "70",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0069.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "71",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0070.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "72",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0071.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "73",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0072.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "74",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0073.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "75",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0074.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "76",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0075.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "77",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0076.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "78",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0077.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "79",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0078.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "80",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0079.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "81",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0080.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "82",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0081.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "83",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0082.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "84",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0083.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "85",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0084.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "86",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0085.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "87",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0086.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "88",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0087.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "89",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0088.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "90",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0089.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "91",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0090.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "92",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0091.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "93",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0092.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "94",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0093.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "95",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0094.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "96",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0095.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "97",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0096.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "98",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0097.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "99",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0098.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "100",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0099.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "101",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0100.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "102",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0101.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "103",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0102.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "104",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0103.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "105",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0104.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "106",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0105.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "107",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0106.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "108",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0107.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "109",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0108.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "110",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0109.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "111",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0110.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "112",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0111.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "113",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0112.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "114",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0113.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "115",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0114.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "116",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0115.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "117",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0116.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "118",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0117.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "119",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0118.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "120",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0119.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "121",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0120.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "122",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0121.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "123",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0122.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "124",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0123.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "125",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0124.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "126",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0125.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "127",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0126.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "128",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0127.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "129",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0128.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "130",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0129.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "131",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0130.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "132",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0131.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "133",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0132.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "134",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0133.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "135",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0134.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "136",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0135.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "137",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0136.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "138",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0137.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "139",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0138.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "140",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0139.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "141",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0140.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "142",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0141.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "143",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0142.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "144",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0143.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "145",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0144.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "146",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0145.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "147",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0146.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "148",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0147.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "149",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0148.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "150",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0149.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "151",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0150.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "152",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0151.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "153",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0152.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "154",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0153.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "155",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0154.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "156",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0155.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "157",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0156.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "158",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0157.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "159",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0158.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "160",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0159.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "161",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0160.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "162",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0161.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "163",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0162.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "164",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0163.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "165",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0164.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "166",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0165.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "167",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0166.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "168",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0167.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "169",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0168.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "170",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0169.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "171",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0170.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "172",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0171.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "173",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0172.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "174",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0173.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "175",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0174.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "176",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0175.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "177",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0176.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "178",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0177.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "179",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0178.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "180",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0179.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "181",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0180.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "182",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0181.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "183",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0182.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "184",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0183.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "185",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0184.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "186",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0185.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "187",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0186.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "188",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0187.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "189",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0188.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "190",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0189.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "191",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0190.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "192",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0191.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "193",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0192.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "194",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0193.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "195",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0194.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "196",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0195.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "197",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0196.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "198",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0197.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "199",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0198.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "200",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0199.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "201",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0200.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "202",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0201.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "203",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0202.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "204",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0203.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "205",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0204.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "206",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0205.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "207",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0206.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "208",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0207.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "209",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0208.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "210",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0209.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "211",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0210.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "212",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0211.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "213",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0212.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "214",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0213.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "215",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0214.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "216",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0215.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "217",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0216.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "218",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0217.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "219",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0218.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "220",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0219.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "221",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0220.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "222",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0221.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "223",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0222.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "224",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0223.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "225",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0224.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "226",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0225.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "227",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0226.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "228",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0227.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "229",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0228.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "230",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0229.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "231",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0230.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "232",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0231.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "233",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0232.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "234",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0233.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "235",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0234.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "236",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0235.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "237",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0236.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "238",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0237.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "239",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0238.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "240",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0239.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "241",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0240.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "242",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0241.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "243",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0242.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "244",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0243.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "245",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0244.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "246",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0245.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "247",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0246.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "248",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0247.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "249",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0248.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "250",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0249.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "251",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0250.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "252",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0251.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "253",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0252.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "254",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0253.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "255",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0254.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "256",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0255.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "257",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0256.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "258",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0257.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "259",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0258.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "260",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0259.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "261",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0260.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "262",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0261.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "263",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0262.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "264",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0263.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "265",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0264.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "266",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0265.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "267",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0266.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "268",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0267.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "269",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0268.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "270",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0269.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "271",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0270.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "272",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0271.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "273",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0272.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "274",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0273.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "275",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0274.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "276",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0275.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "277",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0276.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "278",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0277.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "279",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0278.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "280",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0279.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "281",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0280.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "282",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0281.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "283",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0282.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "284",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0283.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "285",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0284.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "286",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0285.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "287",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0286.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "288",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0287.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "289",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0288.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "290",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0289.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "291",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0290.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "292",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0291.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "293",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0292.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "294",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0293.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "295",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0294.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "296",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0295.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "297",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0296.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "298",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0297.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "299",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0298.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "300",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0299.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "301",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0300.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "302",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0301.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "303",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0302.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "304",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0303.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "305",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0304.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "306",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0305.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "307",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0306.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "308",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0307.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "309",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0308.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "310",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0309.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "311",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0310.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "312",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0311.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "313",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0312.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "314",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0313.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "315",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0314.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "316",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0315.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "317",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0316.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "318",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0317.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "319",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0318.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "320",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0319.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "321",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0320.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "322",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0321.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "323",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0322.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "324",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0323.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "325",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0324.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "326",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0325.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "327",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0326.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "328",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0327.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "329",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0328.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "330",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0329.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "331",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0330.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "332",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0331.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "333",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0332.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "334",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0333.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "335",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0334.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "336",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0335.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "337",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0336.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "338",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0337.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "339",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0338.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "340",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0339.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "341",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0340.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "342",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0341.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "343",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0342.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "344",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0343.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "345",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0344.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "346",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0345.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "347",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0346.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "348",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0347.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "349",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0348.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "350",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0349.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "351",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0350.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "352",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0351.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "353",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0352.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "354",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0353.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "355",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0354.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "356",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0355.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "357",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0356.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "358",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0357.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "359",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0358.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "360",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0359.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "361",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0360.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "362",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0361.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "363",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0362.tif",
+            "width": 500,
+            "height": 500
+        },
+        {
+            "label": "364",
+            "motivation": null,
+            "img": "https:\/\/dspace.mountathos.org\/iiif\/images\/4ca79bbf-3d80-473a-a4c5-67fa27f4a363\/img\/16_01_0080-0363.tif",
+            "width": 500,
+            "height": 500
+        }
+    ]
+}
